@@ -3,20 +3,14 @@ const Movie = require('../models/Movie');
 const User = require('../models/User');
 const Review = require('../models/Review');
 const WatchHistory = require('../models/WatchHistory');
+const fs = require('fs');
+const path = require('path');
 require('dotenv').config();
 
-// Sample data generators
+// Sample data generators for users
 const genres = ['Action', 'Comedy', 'Drama', 'Horror', 'Sci-Fi', 'Romance', 'Thriller', 'Adventure', 'Fantasy', 'Animation'];
 const firstNames = ['John', 'Jane', 'Mike', 'Sarah', 'David', 'Lisa', 'Chris', 'Amy', 'Tom', 'Emma', 'Alex', 'Maria', 'James', 'Anna', 'Robert', 'Kate'];
 const lastNames = ['Smith', 'Johnson', 'Williams', 'Brown', 'Jones', 'Garcia', 'Miller', 'Davis', 'Rodriguez', 'Martinez', 'Hernandez', 'Lopez', 'Gonzalez', 'Wilson', 'Anderson', 'Thomas'];
-
-const movieTitles = [
-  'The Great Adventure', 'Mystery of the Lost City', 'Love in Paris', 'Space Odyssey', 'The Last Stand',
-  'Ocean Depths', 'Mountain Peak', 'City Lights', 'Desert Storm', 'Forest Guardian', 'Time Traveler',
-  'Digital Dreams', 'Ancient Secrets', 'Future World', 'Hidden Truth', 'Dark Knight', 'Bright Star',
-  'Silent Night', 'Loud Thunder', 'Fast Runner', 'Slow Dance', 'High Tower', 'Deep Valley',
-  'Wide Ocean', 'Narrow Path', 'Big City', 'Small Town', 'Hot Summer', 'Cold Winter', 'Sweet Dreams'
-];
 
 const reviewTexts = [
   'Amazing movie! Highly recommended.', 'Great storyline and acting.', 'Could be better, but still enjoyable.',
@@ -38,28 +32,33 @@ function getRandomElements(array, count) {
   return shuffled.slice(0, count);
 }
 
-function generateRandomMovie() {
-  const title = getRandomElement(movieTitles) + ' ' + (Math.floor(Math.random() * 9999) + 1);
-  const year = 1990 + Math.floor(Math.random() * 34);
-  const rating = (Math.random() * 4 + 1).toFixed(1);
-  const duration = 60 + Math.floor(Math.random() * 120);
-  
-  return {
-    title,
-    description: `An exciting ${getRandomElement(genres).toLowerCase()} movie released in ${year}. This film tells an engaging story that will keep you entertained for ${duration} minutes.`,
-    genres: getRandomElements(genres, Math.floor(Math.random() * 3) + 1),
-    releaseYear: year,
-    rating: parseFloat(rating),
-    duration,
-    cast: getRandomElements(firstNames, 3).map(firstName => ({
-      name: firstName + ' ' + getRandomElement(lastNames),
-      role: 'Actor'
-    })),
-    director: getRandomElement(firstNames) + ' ' + getRandomElement(lastNames),
-    posterUrl: `https://via.placeholder.com/300x450/0066cc/ffffff?text=${encodeURIComponent(title)}`,
-    trailerUrl: `https://example.com/trailer/${Math.random().toString(36).substr(2, 9)}`,
-    createdAt: new Date(Date.now() - Math.random() * 365 * 24 * 60 * 60 * 1000)
-  };
+function loadMoviesFromJson() {
+  try {
+    const filePath = path.join(__dirname, 'movies.json');
+    const rawData = fs.readFileSync(filePath, 'utf8');
+    const movies = JSON.parse(rawData);
+    
+    // Transform the JSON format to match your Movie schema
+    return movies.map(movie => ({
+      title: movie.title,
+      description: movie.description || `A captivating ${movie.genres?.[0] || 'movie'} that will keep you entertained.`,
+      genres: movie.genres || [],
+      releaseYear: movie.releaseYear,
+      rating: movie.rating || 0,
+      duration: movie.runtime || 120,
+      cast: movie.cast?.map(actor => ({
+        name: actor,
+        role: 'Actor'
+      })) || [],
+      director: movie.director || 'Unknown',
+      posterUrl: movie.posterUrl || `https://via.placeholder.com/300x450/0066cc/ffffff?text=${encodeURIComponent(movie.title)}`,
+      trailerUrl: `https://example.com/trailer/${Math.random().toString(36).substr(2, 9)}`,
+      createdAt: new Date(Date.now() - Math.random() * 365 * 24 * 60 * 60 * 1000)
+    }));
+  } catch (error) {
+    console.error('Error reading movies.json:', error);
+    throw error;
+  }
 }
 
 function generateRandomUser() {
@@ -117,12 +116,11 @@ async function seedDatabase() {
     await WatchHistory.deleteMany({});
     console.log('Existing data cleared.');
 
-    // Generate and insert movies (2000 movies)
-    console.log('Generating movies...');
-    const movies = [];
-    for (let i = 0; i < 2000; i++) {
-      movies.push(generateRandomMovie());
-    }
+    // Load and insert movies from JSON file
+    console.log('Loading movies from movies.json...');
+    const movies = loadMoviesFromJson();
+    console.log(`Loaded ${movies.length} movies from file.`);
+    
     const insertedMovies = await Movie.insertMany(movies);
     console.log(`Inserted ${insertedMovies.length} movies.`);
 
