@@ -1,0 +1,933 @@
+[
+  {
+    "userId": "68f690c63ee394ac1cc4070d",
+    "movieId": "68f690c63ee394ac1cc40721",
+    "timestamp": "2025-08-04T19:43:02.510Z",
+    "watchDuration": 43,
+    "completionPercentage": 38
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4070d",
+    "movieId": "68f690c63ee394ac1cc40722",
+    "timestamp": "2025-07-24T19:43:02.514Z",
+    "watchDuration": 58,
+    "completionPercentage": 11
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4070d",
+    "movieId": "68f690c63ee394ac1cc40723",
+    "timestamp": "2025-09-07T19:43:02.514Z",
+    "watchDuration": 155,
+    "completionPercentage": 54
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4070d",
+    "movieId": "68f690c63ee394ac1cc40724",
+    "timestamp": "2025-10-04T19:43:02.514Z",
+    "watchDuration": 142,
+    "completionPercentage": 90
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4070d",
+    "movieId": "68f690c63ee394ac1cc40725",
+    "timestamp": "2025-09-28T19:43:02.514Z",
+    "watchDuration": 162,
+    "completionPercentage": 68
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4070d",
+    "movieId": "68f690c63ee394ac1cc40726",
+    "timestamp": "2025-10-06T19:43:02.514Z",
+    "watchDuration": 82,
+    "completionPercentage": 92
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4070e",
+    "movieId": "68f690c63ee394ac1cc40727",
+    "timestamp": "2025-10-09T19:43:02.514Z",
+    "watchDuration": 164,
+    "completionPercentage": 34
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4070e",
+    "movieId": "68f690c63ee394ac1cc40728",
+    "timestamp": "2025-08-25T19:43:02.514Z",
+    "watchDuration": 194,
+    "completionPercentage": 35
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4070e",
+    "movieId": "68f690c63ee394ac1cc40729",
+    "timestamp": "2025-09-24T19:43:02.514Z",
+    "watchDuration": 197,
+    "completionPercentage": 33
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4070e",
+    "movieId": "68f690c63ee394ac1cc4072a",
+    "timestamp": "2025-09-09T19:43:02.514Z",
+    "watchDuration": 112,
+    "completionPercentage": 9
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4070e",
+    "movieId": "68f690c63ee394ac1cc4072b",
+    "timestamp": "2025-10-18T19:43:02.514Z",
+    "watchDuration": 60,
+    "completionPercentage": 11
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4070e",
+    "movieId": "68f690c63ee394ac1cc4072c",
+    "timestamp": "2025-09-22T19:43:02.514Z",
+    "watchDuration": 209,
+    "completionPercentage": 99
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4070e",
+    "movieId": "68f690c63ee394ac1cc4072d",
+    "timestamp": "2025-08-21T19:43:02.514Z",
+    "watchDuration": 155,
+    "completionPercentage": 25
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4070f",
+    "movieId": "68f690c63ee394ac1cc4072e",
+    "timestamp": "2025-08-17T19:43:02.514Z",
+    "watchDuration": 61,
+    "completionPercentage": 69
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4070f",
+    "movieId": "68f690c63ee394ac1cc4072f",
+    "timestamp": "2025-09-19T19:43:02.514Z",
+    "watchDuration": 167,
+    "completionPercentage": 99
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4070f",
+    "movieId": "68f690c63ee394ac1cc40730",
+    "timestamp": "2025-08-03T19:43:02.514Z",
+    "watchDuration": 176,
+    "completionPercentage": 17
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4070f",
+    "movieId": "68f690c63ee394ac1cc40731",
+    "timestamp": "2025-08-19T19:43:02.514Z",
+    "watchDuration": 141,
+    "completionPercentage": 64
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4070f",
+    "movieId": "68f690c63ee394ac1cc40732",
+    "timestamp": "2025-09-15T19:43:02.514Z",
+    "watchDuration": 77,
+    "completionPercentage": 36
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4070f",
+    "movieId": "68f690c63ee394ac1cc40733",
+    "timestamp": "2025-09-19T19:43:02.514Z",
+    "watchDuration": 97,
+    "completionPercentage": 9
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4070f",
+    "movieId": "68f690c63ee394ac1cc40734",
+    "timestamp": "2025-10-10T19:43:02.514Z",
+    "watchDuration": 77,
+    "completionPercentage": 30
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4070f",
+    "movieId": "68f690c63ee394ac1cc40735",
+    "timestamp": "2025-10-19T19:43:02.514Z",
+    "watchDuration": 151,
+    "completionPercentage": 64
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40710",
+    "movieId": "68f690c63ee394ac1cc40736",
+    "timestamp": "2025-09-15T19:43:02.514Z",
+    "watchDuration": 209,
+    "completionPercentage": 66
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40710",
+    "movieId": "68f690c63ee394ac1cc40737",
+    "timestamp": "2025-10-20T19:43:02.514Z",
+    "watchDuration": 161,
+    "completionPercentage": 69
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40710",
+    "movieId": "68f690c63ee394ac1cc40738",
+    "timestamp": "2025-10-01T19:43:02.514Z",
+    "watchDuration": 179,
+    "completionPercentage": 79
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40710",
+    "movieId": "68f690c63ee394ac1cc40739",
+    "timestamp": "2025-08-09T19:43:02.514Z",
+    "watchDuration": 175,
+    "completionPercentage": 61
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40710",
+    "movieId": "68f690c63ee394ac1cc4073a",
+    "timestamp": "2025-08-17T19:43:02.514Z",
+    "watchDuration": 197,
+    "completionPercentage": 1
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40711",
+    "movieId": "68f690c63ee394ac1cc4073b",
+    "timestamp": "2025-09-14T19:43:02.514Z",
+    "watchDuration": 155,
+    "completionPercentage": 39
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40711",
+    "movieId": "68f690c63ee394ac1cc4073c",
+    "timestamp": "2025-08-31T19:43:02.514Z",
+    "watchDuration": 94,
+    "completionPercentage": 18
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40711",
+    "movieId": "68f690c63ee394ac1cc4073d",
+    "timestamp": "2025-09-16T19:43:02.514Z",
+    "watchDuration": 60,
+    "completionPercentage": 84
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40711",
+    "movieId": "68f690c63ee394ac1cc4073e",
+    "timestamp": "2025-07-24T19:43:02.514Z",
+    "watchDuration": 135,
+    "completionPercentage": 100
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40711",
+    "movieId": "68f690c63ee394ac1cc4073f",
+    "timestamp": "2025-10-14T19:43:02.514Z",
+    "watchDuration": 112,
+    "completionPercentage": 28
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40712",
+    "movieId": "68f690c63ee394ac1cc40740",
+    "timestamp": "2025-08-02T19:43:02.514Z",
+    "watchDuration": 148,
+    "completionPercentage": 46
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40712",
+    "movieId": "68f690c63ee394ac1cc40741",
+    "timestamp": "2025-08-10T19:43:02.514Z",
+    "watchDuration": 36,
+    "completionPercentage": 29
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40712",
+    "movieId": "68f690c63ee394ac1cc40742",
+    "timestamp": "2025-10-10T19:43:02.514Z",
+    "watchDuration": 124,
+    "completionPercentage": 56
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40712",
+    "movieId": "68f690c63ee394ac1cc40743",
+    "timestamp": "2025-09-11T19:43:02.514Z",
+    "watchDuration": 199,
+    "completionPercentage": 15
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40712",
+    "movieId": "68f690c63ee394ac1cc40744",
+    "timestamp": "2025-10-15T19:43:02.514Z",
+    "watchDuration": 136,
+    "completionPercentage": 8
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40712",
+    "movieId": "68f690c63ee394ac1cc40745",
+    "timestamp": "2025-08-11T19:43:02.514Z",
+    "watchDuration": 163,
+    "completionPercentage": 24
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40713",
+    "movieId": "68f690c63ee394ac1cc40746",
+    "timestamp": "2025-07-27T19:43:02.514Z",
+    "watchDuration": 104,
+    "completionPercentage": 44
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40713",
+    "movieId": "68f690c63ee394ac1cc40747",
+    "timestamp": "2025-09-09T19:43:02.514Z",
+    "watchDuration": 113,
+    "completionPercentage": 61
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40713",
+    "movieId": "68f690c63ee394ac1cc40748",
+    "timestamp": "2025-08-30T19:43:02.514Z",
+    "watchDuration": 33,
+    "completionPercentage": 15
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40713",
+    "movieId": "68f690c63ee394ac1cc40749",
+    "timestamp": "2025-10-06T19:43:02.514Z",
+    "watchDuration": 48,
+    "completionPercentage": 34
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40713",
+    "movieId": "68f690c63ee394ac1cc4074a",
+    "timestamp": "2025-10-08T19:43:02.514Z",
+    "watchDuration": 177,
+    "completionPercentage": 19
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40713",
+    "movieId": "68f690c63ee394ac1cc4074b",
+    "timestamp": "2025-10-17T19:43:02.514Z",
+    "watchDuration": 124,
+    "completionPercentage": 93
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40713",
+    "movieId": "68f690c63ee394ac1cc4074c",
+    "timestamp": "2025-08-30T19:43:02.514Z",
+    "watchDuration": 174,
+    "completionPercentage": 71
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40714",
+    "movieId": "68f690c63ee394ac1cc4074d",
+    "timestamp": "2025-08-05T19:43:02.514Z",
+    "watchDuration": 188,
+    "completionPercentage": 99
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40714",
+    "movieId": "68f690c63ee394ac1cc4074e",
+    "timestamp": "2025-10-10T19:43:02.514Z",
+    "watchDuration": 185,
+    "completionPercentage": 80
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40714",
+    "movieId": "68f690c63ee394ac1cc4074f",
+    "timestamp": "2025-10-20T19:43:02.514Z",
+    "watchDuration": 152,
+    "completionPercentage": 90
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40714",
+    "movieId": "68f690c63ee394ac1cc40750",
+    "timestamp": "2025-08-22T19:43:02.514Z",
+    "watchDuration": 199,
+    "completionPercentage": 68
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40714",
+    "movieId": "68f690c63ee394ac1cc40751",
+    "timestamp": "2025-09-11T19:43:02.514Z",
+    "watchDuration": 190,
+    "completionPercentage": 93
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40714",
+    "movieId": "68f690c63ee394ac1cc40752",
+    "timestamp": "2025-08-30T19:43:02.514Z",
+    "watchDuration": 170,
+    "completionPercentage": 32
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40714",
+    "movieId": "68f690c63ee394ac1cc40753",
+    "timestamp": "2025-10-15T19:43:02.514Z",
+    "watchDuration": 172,
+    "completionPercentage": 2
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40715",
+    "movieId": "68f690c63ee394ac1cc40754",
+    "timestamp": "2025-08-12T19:43:02.514Z",
+    "watchDuration": 164,
+    "completionPercentage": 75
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40715",
+    "movieId": "68f690c63ee394ac1cc40755",
+    "timestamp": "2025-08-18T19:43:02.514Z",
+    "watchDuration": 69,
+    "completionPercentage": 13
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40715",
+    "movieId": "68f690c63ee394ac1cc40756",
+    "timestamp": "2025-10-16T19:43:02.514Z",
+    "watchDuration": 136,
+    "completionPercentage": 87
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40715",
+    "movieId": "68f690c63ee394ac1cc40757",
+    "timestamp": "2025-09-05T19:43:02.514Z",
+    "watchDuration": 63,
+    "completionPercentage": 59
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40715",
+    "movieId": "68f690c63ee394ac1cc40758",
+    "timestamp": "2025-10-20T19:43:02.514Z",
+    "watchDuration": 38,
+    "completionPercentage": 86
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40715",
+    "movieId": "68f690c63ee394ac1cc40759",
+    "timestamp": "2025-07-30T19:43:02.514Z",
+    "watchDuration": 159,
+    "completionPercentage": 42
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40716",
+    "movieId": "68f690c63ee394ac1cc4075a",
+    "timestamp": "2025-10-11T19:43:02.514Z",
+    "watchDuration": 77,
+    "completionPercentage": 89
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40716",
+    "movieId": "68f690c63ee394ac1cc4075b",
+    "timestamp": "2025-10-18T19:43:02.515Z",
+    "watchDuration": 161,
+    "completionPercentage": 77
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40716",
+    "movieId": "68f690c63ee394ac1cc4075c",
+    "timestamp": "2025-08-13T19:43:02.515Z",
+    "watchDuration": 108,
+    "completionPercentage": 97
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40716",
+    "movieId": "68f690c63ee394ac1cc4075d",
+    "timestamp": "2025-09-21T19:43:02.515Z",
+    "watchDuration": 178,
+    "completionPercentage": 2
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40716",
+    "movieId": "68f690c63ee394ac1cc4075e",
+    "timestamp": "2025-07-30T19:43:02.515Z",
+    "watchDuration": 30,
+    "completionPercentage": 3
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40716",
+    "movieId": "68f690c63ee394ac1cc4075f",
+    "timestamp": "2025-08-23T19:43:02.515Z",
+    "watchDuration": 67,
+    "completionPercentage": 96
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40717",
+    "movieId": "68f690c63ee394ac1cc40760",
+    "timestamp": "2025-08-10T19:43:02.515Z",
+    "watchDuration": 161,
+    "completionPercentage": 2
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40717",
+    "movieId": "68f690c63ee394ac1cc40761",
+    "timestamp": "2025-09-10T19:43:02.515Z",
+    "watchDuration": 163,
+    "completionPercentage": 77
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40717",
+    "movieId": "68f690c63ee394ac1cc40762",
+    "timestamp": "2025-09-06T19:43:02.515Z",
+    "watchDuration": 105,
+    "completionPercentage": 79
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40717",
+    "movieId": "68f690c63ee394ac1cc40763",
+    "timestamp": "2025-07-31T19:43:02.515Z",
+    "watchDuration": 196,
+    "completionPercentage": 59
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40717",
+    "movieId": "68f690c63ee394ac1cc40764",
+    "timestamp": "2025-08-24T19:43:02.515Z",
+    "watchDuration": 202,
+    "completionPercentage": 62
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40717",
+    "movieId": "68f690c63ee394ac1cc40765",
+    "timestamp": "2025-08-06T19:43:02.515Z",
+    "watchDuration": 49,
+    "completionPercentage": 88
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40717",
+    "movieId": "68f690c63ee394ac1cc40766",
+    "timestamp": "2025-08-05T19:43:02.515Z",
+    "watchDuration": 137,
+    "completionPercentage": 46
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40718",
+    "movieId": "68f690c63ee394ac1cc40767",
+    "timestamp": "2025-09-26T19:43:02.515Z",
+    "watchDuration": 207,
+    "completionPercentage": 55
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40718",
+    "movieId": "68f690c63ee394ac1cc40768",
+    "timestamp": "2025-09-21T19:43:02.515Z",
+    "watchDuration": 87,
+    "completionPercentage": 74
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40718",
+    "movieId": "68f690c63ee394ac1cc40769",
+    "timestamp": "2025-10-14T19:43:02.515Z",
+    "watchDuration": 94,
+    "completionPercentage": 18
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40718",
+    "movieId": "68f690c63ee394ac1cc4076a",
+    "timestamp": "2025-09-27T19:43:02.515Z",
+    "watchDuration": 129,
+    "completionPercentage": 49
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40718",
+    "movieId": "68f690c63ee394ac1cc4076b",
+    "timestamp": "2025-07-30T19:43:02.515Z",
+    "watchDuration": 175,
+    "completionPercentage": 48
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40718",
+    "movieId": "68f690c63ee394ac1cc4076c",
+    "timestamp": "2025-08-16T19:43:02.515Z",
+    "watchDuration": 162,
+    "completionPercentage": 48
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40718",
+    "movieId": "68f690c63ee394ac1cc4076d",
+    "timestamp": "2025-10-20T19:43:02.515Z",
+    "watchDuration": 40,
+    "completionPercentage": 64
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40718",
+    "movieId": "68f690c63ee394ac1cc4076e",
+    "timestamp": "2025-09-11T19:43:02.515Z",
+    "watchDuration": 95,
+    "completionPercentage": 66
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40719",
+    "movieId": "68f690c63ee394ac1cc4076f",
+    "timestamp": "2025-07-28T19:43:02.515Z",
+    "watchDuration": 178,
+    "completionPercentage": 59
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40719",
+    "movieId": "68f690c63ee394ac1cc40770",
+    "timestamp": "2025-08-09T19:43:02.515Z",
+    "watchDuration": 207,
+    "completionPercentage": 82
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40719",
+    "movieId": "68f690c63ee394ac1cc40771",
+    "timestamp": "2025-08-08T19:43:02.515Z",
+    "watchDuration": 48,
+    "completionPercentage": 73
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40719",
+    "movieId": "68f690c63ee394ac1cc40772",
+    "timestamp": "2025-08-07T19:43:02.515Z",
+    "watchDuration": 144,
+    "completionPercentage": 34
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40719",
+    "movieId": "68f690c63ee394ac1cc40773",
+    "timestamp": "2025-08-07T19:43:02.515Z",
+    "watchDuration": 208,
+    "completionPercentage": 3
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40719",
+    "movieId": "68f690c63ee394ac1cc40774",
+    "timestamp": "2025-08-23T19:43:02.515Z",
+    "watchDuration": 193,
+    "completionPercentage": 9
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40719",
+    "movieId": "68f690c63ee394ac1cc40775",
+    "timestamp": "2025-09-23T19:43:02.515Z",
+    "watchDuration": 203,
+    "completionPercentage": 2
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40719",
+    "movieId": "68f690c63ee394ac1cc40776",
+    "timestamp": "2025-08-06T19:43:02.515Z",
+    "watchDuration": 81,
+    "completionPercentage": 85
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40719",
+    "movieId": "68f690c63ee394ac1cc40777",
+    "timestamp": "2025-09-17T19:43:02.515Z",
+    "watchDuration": 64,
+    "completionPercentage": 15
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071a",
+    "movieId": "68f690c63ee394ac1cc40778",
+    "timestamp": "2025-09-21T19:43:02.515Z",
+    "watchDuration": 147,
+    "completionPercentage": 67
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071a",
+    "movieId": "68f690c63ee394ac1cc40779",
+    "timestamp": "2025-08-08T19:43:02.515Z",
+    "watchDuration": 83,
+    "completionPercentage": 18
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071a",
+    "movieId": "68f690c63ee394ac1cc4077a",
+    "timestamp": "2025-10-08T19:43:02.515Z",
+    "watchDuration": 41,
+    "completionPercentage": 46
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071a",
+    "movieId": "68f690c63ee394ac1cc4077b",
+    "timestamp": "2025-10-04T19:43:02.515Z",
+    "watchDuration": 126,
+    "completionPercentage": 16
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071a",
+    "movieId": "68f690c63ee394ac1cc4077c",
+    "timestamp": "2025-09-04T19:43:02.515Z",
+    "watchDuration": 88,
+    "completionPercentage": 35
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071a",
+    "movieId": "68f690c63ee394ac1cc4077d",
+    "timestamp": "2025-09-07T19:43:02.515Z",
+    "watchDuration": 184,
+    "completionPercentage": 9
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071a",
+    "movieId": "68f690c63ee394ac1cc4077e",
+    "timestamp": "2025-09-24T19:43:02.515Z",
+    "watchDuration": 119,
+    "completionPercentage": 79
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071b",
+    "movieId": "68f690c63ee394ac1cc4077f",
+    "timestamp": "2025-09-25T19:43:02.515Z",
+    "watchDuration": 207,
+    "completionPercentage": 78
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071b",
+    "movieId": "68f690c63ee394ac1cc40780",
+    "timestamp": "2025-10-13T19:43:02.515Z",
+    "watchDuration": 156,
+    "completionPercentage": 45
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071b",
+    "movieId": "68f690c63ee394ac1cc40781",
+    "timestamp": "2025-10-20T19:43:02.515Z",
+    "watchDuration": 46,
+    "completionPercentage": 9
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071b",
+    "movieId": "68f690c63ee394ac1cc40782",
+    "timestamp": "2025-08-23T19:43:02.515Z",
+    "watchDuration": 66,
+    "completionPercentage": 57
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071b",
+    "movieId": "68f690c63ee394ac1cc40783",
+    "timestamp": "2025-08-07T19:43:02.515Z",
+    "watchDuration": 138,
+    "completionPercentage": 25
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071b",
+    "movieId": "68f690c63ee394ac1cc40784",
+    "timestamp": "2025-09-21T19:43:02.515Z",
+    "watchDuration": 66,
+    "completionPercentage": 92
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071c",
+    "movieId": "68f690c63ee394ac1cc40785",
+    "timestamp": "2025-09-04T19:43:02.515Z",
+    "watchDuration": 182,
+    "completionPercentage": 15
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071c",
+    "movieId": "68f690c63ee394ac1cc40786",
+    "timestamp": "2025-10-12T19:43:02.515Z",
+    "watchDuration": 205,
+    "completionPercentage": 35
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071c",
+    "movieId": "68f690c63ee394ac1cc40787",
+    "timestamp": "2025-08-12T19:43:02.515Z",
+    "watchDuration": 35,
+    "completionPercentage": 84
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071c",
+    "movieId": "68f690c63ee394ac1cc40788",
+    "timestamp": "2025-08-13T19:43:02.515Z",
+    "watchDuration": 87,
+    "completionPercentage": 39
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071c",
+    "movieId": "68f690c63ee394ac1cc40789",
+    "timestamp": "2025-10-11T19:43:02.515Z",
+    "watchDuration": 158,
+    "completionPercentage": 94
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071d",
+    "movieId": "68f690c63ee394ac1cc4078a",
+    "timestamp": "2025-09-19T19:43:02.515Z",
+    "watchDuration": 190,
+    "completionPercentage": 67
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071d",
+    "movieId": "68f690c63ee394ac1cc4078b",
+    "timestamp": "2025-09-04T19:43:02.515Z",
+    "watchDuration": 70,
+    "completionPercentage": 8
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071d",
+    "movieId": "68f690c63ee394ac1cc4078c",
+    "timestamp": "2025-08-14T19:43:02.515Z",
+    "watchDuration": 186,
+    "completionPercentage": 32
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071d",
+    "movieId": "68f690c63ee394ac1cc4078d",
+    "timestamp": "2025-09-16T19:43:02.515Z",
+    "watchDuration": 195,
+    "completionPercentage": 2
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071d",
+    "movieId": "68f690c63ee394ac1cc4078e",
+    "timestamp": "2025-09-16T19:43:02.515Z",
+    "watchDuration": 37,
+    "completionPercentage": 50
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071d",
+    "movieId": "68f690c63ee394ac1cc4078f",
+    "timestamp": "2025-08-24T19:43:02.515Z",
+    "watchDuration": 140,
+    "completionPercentage": 51
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071d",
+    "movieId": "68f690c63ee394ac1cc40790",
+    "timestamp": "2025-10-02T19:43:02.515Z",
+    "watchDuration": 59,
+    "completionPercentage": 36
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071e",
+    "movieId": "68f690c63ee394ac1cc40791",
+    "timestamp": "2025-08-27T19:43:02.515Z",
+    "watchDuration": 163,
+    "completionPercentage": 39
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071e",
+    "movieId": "68f690c63ee394ac1cc40792",
+    "timestamp": "2025-09-11T19:43:02.515Z",
+    "watchDuration": 79,
+    "completionPercentage": 68
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071e",
+    "movieId": "68f690c63ee394ac1cc40793",
+    "timestamp": "2025-08-14T19:43:02.515Z",
+    "watchDuration": 209,
+    "completionPercentage": 94
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071e",
+    "movieId": "68f690c63ee394ac1cc40794",
+    "timestamp": "2025-07-25T19:43:02.515Z",
+    "watchDuration": 155,
+    "completionPercentage": 12
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071e",
+    "movieId": "68f690c63ee394ac1cc40795",
+    "timestamp": "2025-08-20T19:43:02.515Z",
+    "watchDuration": 51,
+    "completionPercentage": 26
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071e",
+    "movieId": "68f690c63ee394ac1cc40796",
+    "timestamp": "2025-09-21T19:43:02.515Z",
+    "watchDuration": 192,
+    "completionPercentage": 16
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071e",
+    "movieId": "68f690c63ee394ac1cc40797",
+    "timestamp": "2025-09-23T19:43:02.515Z",
+    "watchDuration": 126,
+    "completionPercentage": 8
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071e",
+    "movieId": "68f690c63ee394ac1cc40798",
+    "timestamp": "2025-08-18T19:43:02.515Z",
+    "watchDuration": 134,
+    "completionPercentage": 77
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071e",
+    "movieId": "68f690c63ee394ac1cc40799",
+    "timestamp": "2025-10-03T19:43:02.515Z",
+    "watchDuration": 128,
+    "completionPercentage": 7
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071f",
+    "movieId": "68f690c63ee394ac1cc4079a",
+    "timestamp": "2025-07-26T19:43:02.515Z",
+    "watchDuration": 35,
+    "completionPercentage": 69
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071f",
+    "movieId": "68f690c63ee394ac1cc4079b",
+    "timestamp": "2025-10-07T19:43:02.515Z",
+    "watchDuration": 176,
+    "completionPercentage": 83
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071f",
+    "movieId": "68f690c63ee394ac1cc4079c",
+    "timestamp": "2025-08-04T19:43:02.515Z",
+    "watchDuration": 148,
+    "completionPercentage": 57
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071f",
+    "movieId": "68f690c63ee394ac1cc4079d",
+    "timestamp": "2025-10-02T19:43:02.515Z",
+    "watchDuration": 61,
+    "completionPercentage": 95
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071f",
+    "movieId": "68f690c63ee394ac1cc4079e",
+    "timestamp": "2025-08-27T19:43:02.515Z",
+    "watchDuration": 118,
+    "completionPercentage": 53
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071f",
+    "movieId": "68f690c63ee394ac1cc4079f",
+    "timestamp": "2025-07-30T19:43:02.515Z",
+    "watchDuration": 96,
+    "completionPercentage": 21
+  },
+  {
+    "userId": "68f690c63ee394ac1cc4071f",
+    "movieId": "68f690c63ee394ac1cc407a0",
+    "timestamp": "2025-09-18T19:43:02.515Z",
+    "watchDuration": 82,
+    "completionPercentage": 66
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40720",
+    "movieId": "68f690c63ee394ac1cc407a1",
+    "timestamp": "2025-10-11T19:43:02.515Z",
+    "watchDuration": 174,
+    "completionPercentage": 11
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40720",
+    "movieId": "68f690c63ee394ac1cc407a2",
+    "timestamp": "2025-10-16T19:43:02.515Z",
+    "watchDuration": 133,
+    "completionPercentage": 44
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40720",
+    "movieId": "68f690c63ee394ac1cc407a3",
+    "timestamp": "2025-09-20T19:43:02.515Z",
+    "watchDuration": 67,
+    "completionPercentage": 85
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40720",
+    "movieId": "68f690c63ee394ac1cc407a4",
+    "timestamp": "2025-10-13T19:43:02.515Z",
+    "watchDuration": 80,
+    "completionPercentage": 98
+  },
+  {
+    "userId": "68f690c63ee394ac1cc40720",
+    "movieId": "68f690c63ee394ac1cc407a5",
+    "timestamp": "2025-10-03T19:43:02.515Z",
+    "watchDuration": 129,
+    "completionPercentage": 16
+  }
+]

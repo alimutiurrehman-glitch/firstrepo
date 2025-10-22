@@ -1,0 +1,122 @@
+[
+  {
+    "name": "John Smith",
+    "email": "user1@email.com",
+    "subscriptionType": "free",
+    "_id": "68f690c63ee394ac1cc4070d"
+  },
+  {
+    "name": "Sarah Johnson",
+    "email": "user2@email.com",
+    "subscriptionType": "premium",
+    "_id": "68f690c63ee394ac1cc4070e"
+  },
+  {
+    "name": "Mike Wilson",
+    "email": "user3@email.com",
+    "subscriptionType": "free",
+    "_id": "68f690c63ee394ac1cc4070f"
+  },
+  {
+    "name": "Emma Brown",
+    "email": "user4@email.com",
+    "subscriptionType": "vip",
+    "_id": "68f690c63ee394ac1cc40710"
+  },
+  {
+    "name": "David Davis",
+    "email": "user5@email.com",
+    "subscriptionType": "free",
+    "_id": "68f690c63ee394ac1cc40711"
+  },
+  {
+    "name": "Lisa Garcia",
+    "email": "user6@email.com",
+    "subscriptionType": "premium",
+    "_id": "68f690c63ee394ac1cc40712"
+  },
+  {
+    "name": "Tom Miller",
+    "email": "user7@email.com",
+    "subscriptionType": "free",
+    "_id": "68f690c63ee394ac1cc40713"
+  },
+  {
+    "name": "Anna Martinez",
+    "email": "user8@email.com",
+    "subscriptionType": "vip",
+    "_id": "68f690c63ee394ac1cc40714"
+  },
+  {
+    "name": "Chris Taylor",
+    "email": "user9@email.com",
+    "subscriptionType": "free",
+    "_id": "68f690c63ee394ac1cc40715"
+  },
+  {
+    "name": "Maria Rodriguez",
+    "email": "user10@email.com",
+    "subscriptionType": "premium",
+    "_id": "68f690c63ee394ac1cc40716"
+  },
+  {
+    "name": "James Anderson",
+    "email": "user11@email.com",
+    "subscriptionType": "free",
+    "_id": "68f690c63ee394ac1cc40717"
+  },
+  {
+    "name": "Jennifer White",
+    "email": "user12@email.com",
+    "subscriptionType": "vip",
+    "_id": "68f690c63ee394ac1cc40718"
+  },
+  {
+    "name": "Robert Thomas",
+    "email": "user13@email.com",
+    "subscriptionType": "free",
+    "_id": "68f690c63ee394ac1cc40719"
+  },
+  {
+    "name": "Linda Jackson",
+    "email": "user14@email.com",
+    "subscriptionType": "premium",
+    "_id": "68f690c63ee394ac1cc4071a"
+  },
+  {
+    "name": "Michael Harris",
+    "email": "user15@email.com",
+    "subscriptionType": "free",
+    "_id": "68f690c63ee394ac1cc4071b"
+  },
+  {
+    "name": "Susan Clark",
+    "email": "user16@email.com",
+    "subscriptionType": "vip",
+    "_id": "68f690c63ee394ac1cc4071c"
+  },
+  {
+    "name": "William Lewis",
+    "email": "user17@email.com",
+    "subscriptionType": "free",
+    "_id": "68f690c63ee394ac1cc4071d"
+  },
+  {
+    "name": "Karen Walker",
+    "email": "user18@email.com",
+    "subscriptionType": "premium",
+    "_id": "68f690c63ee394ac1cc4071e"
+  },
+  {
+    "name": "Richard Hall",
+    "email": "user19@email.com",
+    "subscriptionType": "free",
+    "_id": "68f690c63ee394ac1cc4071f"
+  },
+  {
+    "name": "Nancy Allen",
+    "email": "user20@email.com",
+    "subscriptionType": "vip",
+    "_id": "68f690c63ee394ac1cc40720"
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "name": "movie-streaming-platform",
+  "version": "1.0.0",
+  "description": "Movie streaming platform backend with MongoDB",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "process-data": "node src/scripts/processDataset.js",
+    "process-full": "node src/scripts/processFullDataset.js",
+    "create-sample": "node src/scripts/createSampleData.js",
+    "generate-watch-history": "node src/scripts/generateWatchHistory.js",
+    "seed": "node src/config/seed.js",
+    "seed-10k": "node src/scripts/seed10k.js",
+    "export-data": "node src/scripts/databaseAnalytics.js",
+    "test": "node tests/api.test.js"
+  },
+  "keywords": [
+    "movie",
+    "streaming",
+    "mongodb",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "mongoose": "^8.0.0",
+    "node-fetch": "^2.7.0",
+    "string-similarity": "^4.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

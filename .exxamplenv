@@ -1,0 +1,9 @@
+# MongoDB Atlas Configuration
+MONGODB_URI=mongodb+srv://xaadanjum36:DLMrhMKx3CbGXYv5@cluster0.rwhnrwv.mongodb.net/movie-streaming-platform?retryWrites=true&w=majority
+
+# Server Configuration
+PORT=5000
+NODE_ENV=development
+
+# TMDB Configuration (for image URLs)
+TMDB_IMAGE_BASE_URL=https://image.tmdb.org/t/p/w500
